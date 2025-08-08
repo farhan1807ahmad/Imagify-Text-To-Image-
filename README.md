@@ -4,5 +4,5 @@ This website is use to generate AI images picture by using APIS from CLIPDROP AI
 
 ![image url](https://github.com/farhan1807ahmad/Imagify-Text-To-Image-/blob/35099c2813a30fa7a32d8615021bd0672a662f52/homee.PNG)
 ![image url](https://github.com/farhan1807ahmad/Imagify-Text-To-Image-/blob/d81db4ece98bd54ccb051e3f7abe687d590053bd/how.PNG)
-![image url]()
+![image url](https://github.com/farhan1807ahmad/Imagify-Text-To-Image-/blob/bb12765a3673dd0a4d7e56539cf0d15950f6d3b8/footerr.PNG)
 
